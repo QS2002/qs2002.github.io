@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CDhRSyRB.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/rosette_book/changelog.md","filePath":"src/rosette_book/changelog.md"}'),a={name:"src/rosette_book/changelog.md"};function r(c,s,n,_,l,p){return o(),t("div")}const g=e(a,[["render",r]]);export{i as __pageData,g as default};

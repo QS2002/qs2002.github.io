@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as a,ag as l}from"./chunks/framework.CDhRSyRB.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"};function s(r,e,d,n,c,u){return a(),o("div",null,e[0]||(e[0]=[l("",7)]))}const h=t(i,[["render",s]]);export{_ as __pageData,h as default};

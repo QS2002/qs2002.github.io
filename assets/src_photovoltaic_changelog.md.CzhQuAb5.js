@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.CDhRSyRB.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/photovoltaic/changelog.md","filePath":"src/photovoltaic/changelog.md"}'),a={name:"src/photovoltaic/changelog.md"};function c(r,n,s,l,p,i){return o(),e("div")}const d=t(a,[["render",c]]);export{_ as __pageData,d as default};

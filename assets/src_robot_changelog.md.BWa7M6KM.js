@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CDhRSyRB.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/robot/changelog.md","filePath":"src/robot/changelog.md"}'),a={name:"src/robot/changelog.md"};function r(c,n,s,l,p,_){return o(),t("div")}const g=e(a,[["render",r]]);export{i as __pageData,g as default};

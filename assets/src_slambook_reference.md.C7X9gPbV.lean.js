@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t}from"./chunks/framework.CDhRSyRB.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/slambook/reference.md","filePath":"src/slambook/reference.md"}'),a={name:"src/slambook/reference.md"};function o(c,s,n,f,m,p){return t(),r("div")}const i=e(a,[["render",o]]);export{d as __pageData,i as default};
