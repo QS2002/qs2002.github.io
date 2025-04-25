@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,ag as n}from"./chunks/framework.CDhRSyRB.js";const u=JSON.parse('{"title":"vitepress","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),t={name:"README.md"};function r(p,s,l,d,o,h){return i(),a("div",null,s[0]||(s[0]=[n("",6)]))}const b=e(t,[["render",r]]);export{u as __pageData,b as default};

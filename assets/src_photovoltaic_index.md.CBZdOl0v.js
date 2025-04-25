@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.CDhRSyRB.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/photovoltaic/index.md","filePath":"src/photovoltaic/index.md"}'),a={name:"src/photovoltaic/index.md"};function c(r,n,s,i,d,p){return o(),e("div")}const m=t(a,[["render",c]]);export{l as __pageData,m as default};
